@@ -1,0 +1,8 @@
+How does your gem take advantage of Ruby's metaprogramming capabilities?
+
+  I used the define_method, along with 'send' to define a bunch of methods that do the same thing instead of hard coding each one. This made the code DRY.
+How long did you spend working on this project? I spent about 2 hours working on the actual coding of this project using my notes.
+
+What was the most rewarding challenge you conquered? I was having an issue figuring out why I was getting an error when trying to create the color Array and I went through a number of iterations until I realized I was missing 'self'.
+
+Where do you still have room to grow? Every time I start a new chapter, I realize there is so much more to understand about what I've already learned.
