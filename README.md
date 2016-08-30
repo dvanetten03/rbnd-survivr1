@@ -1,8 +1,21 @@
-Colorizr README
+**Colorizr** README
+=================
 
 Colorizr is a simple gem that works in terminal to colorize strings.
 
 Summary
+-----------------
+Custom ruby gem that modifies the string colors in terminal. The colors include:
+
+red
+green
+yellow
+blue
+pink
+light_blue
+white
+light_grey
+black
 
 Install
 
